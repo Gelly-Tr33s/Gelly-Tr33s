@@ -8,6 +8,8 @@ About me:
 - 📫 How to reach me: check out my LinkedIn in my bio
 - ⚡ Fun fact: I love games and learning by gamification!
 
+Check out my portfolio: gelly-tr33s.github.io
+
 # Badges
  <p>
   <div align="left" target="_blank">
